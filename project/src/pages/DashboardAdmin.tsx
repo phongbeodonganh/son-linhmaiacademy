@@ -1372,5 +1372,3 @@ const DashboardAdmin: React.FC = () => {
 };
 
 export default DashboardAdmin;
-
-export default DashboardAdmin
